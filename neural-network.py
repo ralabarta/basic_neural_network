@@ -3,7 +3,7 @@ import math
 #@author: Rubiel G. Labarta
 #https://www.linkedin.com/in/rubiel-gonzalez-labarta/
 #
-# Shorthand:
+# Shorthand: 
 #   "pd_" as a variable prefix means "partial derivative"
 #   "d_" as a variable prefix means "derivative"
 #   "_wrt_" is shorthand for "with respect to"
