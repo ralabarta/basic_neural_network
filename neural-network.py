@@ -4,12 +4,12 @@ import math
 #https://www.linkedin.com/in/rubiel-gonzalez-labarta/
 #
 # Shorthand: 
-#   "pd_" as a variable prefix means "partial derivative"
-#   "d_" as a variable prefix means "derivative"
-#   "_wrt_" is shorthand for "with respect to"
-#   "w_ho" and "w_ih" are the index of weights from hidden to output layer neurons and input to hidden layer neurons respectively
+#   "pd_" as a variable prefix means "partial derivative" 
+#   "d_" as a variable prefix means "derivative" 
+#   "_wrt_" is shorthand for "with respect to" 
+#   "w_ho" and "w_ih" are the index of weights from hidden to output layer neurons and input to hidden layer neurons respectively 
 #
-# Comment references:
+# Comment references: 
 #
 # [1] Wikipedia article on Backpropagation
 #   http://en.wikipedia.org/wiki/Backpropagation#Finding_the_derivative_of_the_error
