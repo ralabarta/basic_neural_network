@@ -1,7 +1,7 @@
 import random
 import math
 #@author: Rubiel G. Labarta
-#https://www.linkedin.com/in/rubiel-gonzalez-labarta/ 
+#https://www.linkedin.com/in/rubiel-gonzalez-labarta/  
 #
 # Shorthand: 
 #   "pd_" as a variable prefix means "partial derivative" 

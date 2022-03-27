@@ -1,4 +1,4 @@
-# This is a Simple Neural Network using Backpropagation in it for education
+# This is a Simple Neural Network using Backpropagation in it for education 
 
 This code is a simple Python script programmed to ilustrate how the backpropagation algorithm works in normal conditions. Just for educational purpose.
 
